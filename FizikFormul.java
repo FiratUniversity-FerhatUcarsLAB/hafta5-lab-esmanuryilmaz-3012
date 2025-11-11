@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: [Esmanur YILMAZ]
  * Ogrenci No: [250541033]
- * Tarih: [10.11.2025]
+ * Tarih: [11.11.2025]
  * Aciklama: Gorev 2 - Fizik Formulu Asistani
  *
  * Bu program temel fizik formullerini kullanarak
